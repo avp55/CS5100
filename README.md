@@ -29,6 +29,6 @@
   * Used YOLOv3 for near real-time object detection (Limited to CPU-only option)
     * 
   
-
+## Due to University policy no code may be shared on a public facing repository, however all code is available upon request.
 
   
