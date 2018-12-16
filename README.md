@@ -17,7 +17,7 @@
 
 * Used a TurtleBot2 platform to explore topics in Robotics and Artificial Intelligence
   * Assembled TurtleBot2 from an "in-box" state, and installed all required tools for functionality
-    * Platform: Ubuntu 14.04, ROS Indigo, Xbox 360 Kinect for Vision
+    * Platform: Ubuntu 14.04, ROS Indigo, Xbox 360 Kinect for Vision (RGB-D), Steam Controller for Driving
   * Mapped out an environment using ORB-SLAM2
     * TurtleBot2 succesfully navigated once the area was mapped
     * Covering the Kinect sensors and manually placing TurtleBot2 in a new location was no problem
