@@ -19,10 +19,10 @@
   * Assembled TurtleBot2 from an "in-box" state, and installed all required tools for functionality
     * Platform: Ubuntu 14.04, ROS Indigo, Xbox 360 Kinect for Vision
   * Mapped out an environment using ORB-SLAM2
+    * TurtleBot2 succesfully navigated once the area was mapped, even when covering the Kinect Sensor, and moving TurtleBot
   [![](https://github.com/avp55/CS5100/blob/master/kitchen1.png)](#)
   [![](https://github.com/avp55/CS5100/blob/master/startViewR.png)](#)
   [![](https://github.com/avp55/CS5100/blob/master/overhead2R.png)](#)
-  * TurtleBot2 succesfully navigated once the area was mapped, even when covering the Kinect Sensor, and moving the robot
   
   * Used YOLOv3 for near real-time object detection (Limited to CPU-only option)
   
