@@ -1,3 +1,5 @@
+#### Due to University policy no code may be shared on a public facing repository, however all code is available upon request.
+
 # CS5100 Overview
 
 ## Completed Projects 0-4 of Berkeley's CS188 Course, Available [HERE](http://inst.eecs.berkeley.edu/~cs188/pacman/project_overview.html)
@@ -29,6 +31,5 @@
   * Used YOLOv3 for near real-time object detection (Limited to CPU-only option)
     * 
   
-## Due to University policy no code may be shared on a public facing repository, however all code is available upon request.
 
   
