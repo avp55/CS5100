@@ -20,12 +20,14 @@
     * Platform: Ubuntu 14.04, ROS Indigo, Xbox 360 Kinect for Vision
   * Mapped out an environment using ORB-SLAM2
     * TurtleBot2 succesfully navigated once the area was mapped
-    * Covering the Kinect and manually placing TurtleBot2 in a new location was no problem
+    * Covering the Kinect sensors and manually placing TurtleBot2 in a new location was no problem
   [![](https://github.com/avp55/CS5100/blob/master/kitchen1.png)](#)
   [![](https://github.com/avp55/CS5100/blob/master/startViewR.png)](#)
+  [![](https://github.com/avp55/CS5100/blob/master/DSC_7050r.jpg)](#)
   [![](https://github.com/avp55/CS5100/blob/master/overhead2R.png)](#)
   
   * Used YOLOv3 for near real-time object detection (Limited to CPU-only option)
+    * 
   
 
 
