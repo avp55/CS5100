@@ -28,7 +28,7 @@
   [![](https://github.com/avp55/CS5100/blob/master/DSC_7050r.jpg)](#)
   [![](https://github.com/avp55/CS5100/blob/master/overhead2R.png)](#)
   
-  * Used YOLOv3 for near real-time object detection (Limited to CPU-only option)
+  * Used [YOLOv3](https://github.com/leggedrobotics/darknet_ros) with tiny-weights for near real-time object detection (Limited to CPU-only option)
   
 
   
